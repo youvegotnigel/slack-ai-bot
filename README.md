@@ -1,4 +1,4 @@
-#PERSONAL AI SLACK BOT
+# PERSONAL AI SLACK BOT
 
 ## How to start
 ```bash
